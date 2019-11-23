@@ -1,2 +1,2 @@
-# Algorithms-C-
+# Algorithms-C++
 All well known algorithms collection.
